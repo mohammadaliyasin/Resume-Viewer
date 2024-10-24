@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814161002391",
+    "project_id": "resume-viewer-9c8f9",
+    "storage_bucket": "resume-viewer-9c8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814161002391:android:4c24653a5a20050c1fced2",
+        "android_client_info": {
+          "package_name": "com.example.pdf_viewer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgeHueInZveA8Lgqp5zUeNfr6qYoEvIkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
