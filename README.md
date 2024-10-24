@@ -5,7 +5,7 @@ Based on the retrieved files, here is an updated version of your README file tha
 
 Resume Viewer is a Flutter application designed to display and manage resumes in PDF format. The app leverages Firebase for backend services.
 
-![App Screenshot](path/to/your/image.png)
+![App Screenshot]([path/to/your/image.png](https://github.com/mohammadaliyasin/Resume-Viewer/blob/main/assets/1.png))
 
 ## Features
 
