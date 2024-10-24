@@ -1,11 +1,11 @@
-Based on the retrieved files, here is an updated version of your README file that includes an accurate description of the Resume Viewer app:
+I am unable to retrieve the image file directly. However, you can update the README file with the following markdown to include the image from the assets folder:
 
 ```markdown
 # Resume Viewer
 
 Resume Viewer is a Flutter application designed to display and manage resumes in PDF format. The app leverages Firebase for backend services.
 
-![App Screenshot](assets/1.png)
+![App Screenshot](https://github.com/mohammadaliyasin/Resume-Viewer/blob/main/assets/1.png)
 
 ## Features
 
@@ -74,4 +74,4 @@ Mohammad Ali Yasin - [@your_twitter](https://twitter.com/your_twitter) - your_em
 Project Link: [https://github.com/mohammadaliyasin/Resume-Viewer](https://github.com/mohammadaliyasin/Resume-Viewer)
 ```
 
-Please provide the paths to any images you'd like to include, or upload the images to the repository and I can update the README accordingly.
+You can commit these changes directly to your README file.
